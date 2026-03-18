@@ -6,8 +6,8 @@ __pycache__/
 # Environment
 .env
 
-# Database backups
-*.sql
+# Database backups (keep techanalysis_backup.sql for initial setup)
+# *.sql
 
 # OS
 .DS_Store
