@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Database backups
+*.sql
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# Misc
+.server.pids
+logs/
+
+# Frontend (handled by frontend/.gitignore too)
+frontend/node_modules/
+frontend/dist/
